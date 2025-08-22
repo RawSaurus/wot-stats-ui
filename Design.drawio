@@ -1,0 +1,181 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0 (Edition std-2)" version="28.1.1">
+  <diagram name="Page-1" id="QNr-rjmyUpFUMqAyp9m_">
+    <mxGraphModel dx="1174" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6KUqt7cwEyuzpzm5712q-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="680" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="680" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-4" value="NAME+LOGO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-5" value="BATTLE LOG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-6" value="TANK PLANNER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-7" value="LOGIN/REGISTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-8" value="LOGOUT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-9" value="LINKS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="960" width="680" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-10" value="WELCOME TEXT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="40" width="680" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="40" width="680" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-13" value="NAME+LOGO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-14" value="BATTLE LOG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-15" value="TANK PLANNER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-16" value="LOGIN/REGISTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-17" value="LOGOUT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-18" value="LINKS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="960" width="680" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="970" y="180" width="580" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-21" value="TOP 5 played maps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-22" value="24 HR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-23" value="WEEK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-24" value="MONTH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="255" width="30" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="270" width="30" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="290" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="310" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="330" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-34" value="map name" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="995" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="970" y="430" width="580" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-36" value="ENTER BATTLE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-37" value="MAP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="500" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-38" value="TANK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="500" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-39" value="WIN / LOSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="500" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-40" value="SUBMIT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="560" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="970" y="680" width="580" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=22.105263157894736;endSize=7.610526315789475;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6KUqt7cwEyuzpzm5712q-40" target="6KUqt7cwEyuzpzm5712q-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1385" y="710" as="sourcePoint" />
+            <mxPoint x="1426.25" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1400" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="760" width="245" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="760" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-45" value="W/L percentage for vehicle/map" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="700" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="40" width="680" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="40" width="680" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-48" value="NAME+LOGO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-49" value="BATTLE LOG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-50" value="TANK PLANNER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-51" value="LOGIN/REGISTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-52" value="LOGOUT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-53" value="LINKS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="960" width="680" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="180" width="580" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-56" value="CHOOSE STARTING TANK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="220" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-57" value="CHOOSE TANK TO GET" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="220" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-58" value="ADD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="430" width="580" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-61" value="TOTAL COST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-62" value="CREDITS:&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="490" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6KUqt7cwEyuzpzm5712q-63" value="EXPERIENCE:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="570" width="340" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
